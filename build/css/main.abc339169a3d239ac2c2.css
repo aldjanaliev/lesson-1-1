@@ -1,0 +1,13 @@
+/*!**********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Counter.scss ***!
+  \**********************************************************************************************************************/
+button {
+  padding: 20px;
+  color: #303030;
+  background-color: red;
+  font-size: 20px;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL21haW4uYWJjMzM5MTY5YTNkMjM5YWMyYzIuY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBO0VBQ0k7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FBQ0osQyIsInNvdXJjZXMiOlsid2VicGFjazovL2xlc3Nvbi0xLTEvLi9zcmMvY29tcG9uZW50cy9Db3VudGVyLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiYnV0dG9uIHtcclxuICAgIHBhZGRpbmc6IDIwcHg7XHJcbiAgICBjb2xvcjogZ3JlZW47XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7XHJcbiAgICBmb250LXNpemU6IDIwcHg7XHJcbiAgICBib3JkZXItcmFkaXVzOiAyMHB4O1xyXG4gICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7XHJcbn0iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/
